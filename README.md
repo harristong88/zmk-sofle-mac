@@ -1,5 +1,5 @@
 # Sofle
-See the sofle-win branch for my keymap.
+The keymap below is up to date with my personal layout.
 - [中文](README.md)
 - [English](README_EN.md)
 
