@@ -1,5 +1,5 @@
 # Sofle
-As of 20251122, I have updated the keymap but not the diagrams. I will be updating the diagrams soon.
+See the sofle-win branch for my keymap.
 - [中文](README.md)
 - [English](README_EN.md)
 
